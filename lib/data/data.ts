@@ -38,28 +38,36 @@ export const links = [
 
 export const experiencesData = [
   {
-    title: "Graduated bootcamp",
-    location: "Miami, FL",
+    title: "Mechanical Engineer",
+    location: "Odessa, Ukraine",
     description:
-      "I graduated after 6 months of studying. I immediately found a job as a front-end developer.",
+      "I graduated from Odessa National Maritime University with a degree in Engineering, specializing in Port Mechanization, and obtained a Master's degree. The education provided me with more opportunities to understand technical aspects and solve complex engineering problems.",
     icon: React.createElement(LuGraduationCap),
-    date: "2019",
+    date: "2008-2014",
   },
   {
-    title: "Front-End Developer",
-    location: "Orlando, FL",
+    title: "Customs Broker",
+    location: "Odessa, Ukraine",
     description:
-      "I worked as a front-end developer for 2 years in 1 job and 1 year in another job. I also upskilled to the full stack.",
+      "Drawing on my background as a customs broker, I have navigated through various roles across different companies and also ventured into entrepreneurship. My experience as a customs broker has finely tuned my ability to make well-founded decisions in high-pressure situations, nurtured a creative mindset, and bolstered my analytical prowess. This diverse experience reflects my commitment to excellence and adaptability in dynamic professional environments.",
     icon: React.createElement(CgWorkAlt),
-    date: "2019 - 2021",
+    date: "2015 - 2023",
+  },
+  {
+    title: "Full-Stack Developer Course",
+    location: "Remote",
+    description:
+      "During the ten months of training, I gained expertise in the following technologies: HTML5, CSS3/SASS, JavaScript, React, React Native, Redux, Node.js, Express, and Git. I successfully completed various projects, both individual and team-based, as part of the course curriculum.",
+    icon: React.createElement(LuGraduationCap),
+    date: "2022-2023",
   },
   {
     title: "Full-Stack Developer",
-    location: "Houston, TX",
+    location: "Remote",
     description:
-      "I'm now a full-stack developer working as a freelancer. My stack includes React, Next.js, TypeScript, Tailwind, Prisma and MongoDB. I'm open to full-time opportunities.",
+      "I'm now a full-stack developer working as a freelancer. My stack includes React, Next.js, TypeScript, Tailwind, Node.js and MongoDB. I'm open to full-time opportunities.",
     icon: React.createElement(FaReact),
-    date: "2021 - present",
+    date: "2023 - present",
   },
 ] as const;
 
@@ -136,21 +144,18 @@ export const projectsData = [
 export const skillsData = [
   "HTML",
   "CSS",
+  "SCSS/SASS",
   "JavaScript",
   "TypeScript",
   "React",
   "Next.js",
-  "Node.js",
+  "Redux",
   "Git",
   "Tailwind",
-  "Prisma",
+  "Node.js",
   "MongoDB",
-  "Redux",
-  "GraphQL",
-  "Apollo",
   "Express",
-  "PostgreSQL",
-  "Python",
-  "Django",
-  "Framer Motion",
+  "Axios",
+  "REST API",
+  "AJAX",
 ] as const;

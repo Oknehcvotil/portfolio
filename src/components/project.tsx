@@ -33,7 +33,7 @@ export default function Project({
       }}
       className="mb-3 sm:mb-8 last:mb-0 group"
     >
-      <div className="relative max-w-[42rem] overflow-hidden rounded-lg border border-black/5 bg-gray-100 transition group-hover:bg-gray-200">
+      <div className="bg-gray-100 max-w-[42rem] border border-black/5 rounded-lg overflow-hidden sm:pr-8 relative sm:h-[20rem] hover:bg-gray-200 transition sm:group-even:pl-8">
         <div className="relative flex h-full flex-col px-5 pb-6 pt-4 sm:max-w-[50%] sm:pl-7 sm:pr-2 sm:pt-6 sm:group-even:ml-[19.5rem]">
           <h3 className="text-2xl hidden font-semibold text-center sm:block">
             {title}
