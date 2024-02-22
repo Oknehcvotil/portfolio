@@ -73,7 +73,7 @@ export const experiencesData = [
 
 export const projectsData = [
   {
-    title: "RA LOGISTICS",
+    title: "RA Logistics",
     description:
       "A website for a freight forwarding company. It features a responsive layout, multilingual support, and a feedback form.",
     tags: [
