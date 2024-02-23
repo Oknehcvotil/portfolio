@@ -38,20 +38,12 @@ export const links = [
 
 export const experiencesData = [
   {
-    title: "Mechanical Engineer",
-    location: "Odessa, Ukraine",
+    title: "Full-Stack Developer",
+    location: "Remote",
     description:
-      "I graduated from Odessa National Maritime University with a degree in Engineering, specializing in Port Mechanization, and obtained a Master's degree. The education provided me with more opportunities to understand technical aspects and solve complex engineering problems.",
-    icon: React.createElement(LuGraduationCap),
-    date: "2008-2014",
-  },
-  {
-    title: "Customs Broker",
-    location: "Odessa, Ukraine",
-    description:
-      "Drawing on my background as a customs broker, I have navigated through various roles across different companies and also ventured into entrepreneurship. My experience as a customs broker has finely tuned my ability to make well-founded decisions in high-pressure situations, nurtured a creative mindset, and bolstered my analytical prowess. This diverse experience reflects my commitment to excellence and adaptability in dynamic professional environments.",
-    icon: React.createElement(CgWorkAlt),
-    date: "2015 - 2023",
+      "I'm now a full-stack developer working as a freelancer. My stack includes React, Next.js, TypeScript, Tailwind, Node.js and MongoDB. I'm open to full-time opportunities.",
+    icon: React.createElement(FaReact),
+    date: "2023 - present",
   },
   {
     title: "Full-Stack Developer Course",
@@ -62,12 +54,20 @@ export const experiencesData = [
     date: "2022-2023",
   },
   {
-    title: "Full-Stack Developer",
-    location: "Remote",
+    title: "Customs Broker",
+    location: "Odessa, Ukraine",
     description:
-      "I'm now a full-stack developer working as a freelancer. My stack includes React, Next.js, TypeScript, Tailwind, Node.js and MongoDB. I'm open to full-time opportunities.",
-    icon: React.createElement(FaReact),
-    date: "2023 - present",
+      "Drawing on my background as a customs broker, I have navigated through various roles across different companies and also ventured into entrepreneurship. My experience as a customs broker has finely tuned my ability to make well-founded decisions in high-pressure situations, nurtured a creative mindset, and bolstered my analytical prowess. This diverse experience reflects my commitment to excellence and adaptability in dynamic professional environments.",
+    icon: React.createElement(CgWorkAlt),
+    date: "2015 - 2023",
+  },
+  {
+    title: "Mechanical Engineer",
+    location: "Odessa, Ukraine",
+    description:
+      "I graduated from Odessa National Maritime University with a degree in Engineering, specializing in Port Mechanization, and obtained a Master's degree. The education provided me with more opportunities to understand technical aspects and solve complex engineering problems.",
+    icon: React.createElement(LuGraduationCap),
+    date: "2008-2014",
   },
 ] as const;
 
