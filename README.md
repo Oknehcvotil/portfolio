@@ -2,6 +2,14 @@
 
 Welcome to my personal portfolio website! This site serves as a showcase of my skills, projects, and experience. It's designed to provide visitors with insights into my professional journey and expertise.
 
+### Sections:
+
+- About: Learn more about me, my background, and what drives my passion for web development.
+- My Projects: Explore the various projects I've worked on, each highlighting different skills and technologies.
+- My Skills: A comprehensive list of the skills and technologies I am proficient in.
+- My Experience: An overview of my professional journey, including key roles and responsibilities.
+- Contact Form: Feel free to reach out to me through the contact form provided on the website.
+
 ### Technologies Used:
 
 - Next.js: Version 14.1.0 - A React framework for building efficient and scalable web applications.
@@ -16,14 +24,6 @@ Welcome to my personal portfolio website! This site serves as a showcase of my s
 - Resend: Version 0.16.0 - A library for handling asynchronous function retries.
 - @React-email/components: Version 0.0.15 - Components for creating responsive email designs.
 - @React-email/tailwind: Version 0.0.14 - Tailwind CSS utility classes for styling HTML emails.
-
-### Sections:
-
-- About: Learn more about me, my background, and what drives my passion for web development.
-- My Projects: Explore the various projects I've worked on, each highlighting different skills and technologies.
-- My Skills: A comprehensive list of the skills and technologies I am proficient in.
-- My Experience: An overview of my professional journey, including key roles and responsibilities.
-- Contact Form: Feel free to reach out to me through the contact form provided on the website.
 
 # Developer:
 
