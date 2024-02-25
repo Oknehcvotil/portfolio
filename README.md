@@ -1,36 +1,29 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Portfolio
 
-## Getting Started
+# Welcome to my personal portfolio website! This site serves as a showcase of my skills, projects, and experience. It's designed to provide visitors with insights into my professional journey and expertise.
 
-First, run the development server:
+# Technologies Used:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Next.js: Version 14.1.0 - A React framework for building efficient and scalable web applications.
+React: Version 18 - A JavaScript library for building user interfaces.
+Tailwind CSS: Version 3.3.0 - A utility-first CSS framework for rapidly building custom designs.
+Framer Motion: Version 11.0.5 - A library for creating fluid animations in React.
+React Icons: Version 5.0.1 - A set of SVG icons for popular icon packs.
+React Intersection Observer: Version 9.8.0 - A React component for watching elements scroll into view.
+React Vertical Timeline Component: Version 3.6.0 - A responsive vertical timeline component for React.
+React Hot Toast: Version 2.4.1 - Toast notifications for React applications.
+Clsx: Version 2.1.0 - A tiny utility for constructing class names dynamically.
+Resend: Version 0.16.0 - A library for handling asynchronous function retries.
+@React-email/components: Version 0.0.15 - Components for creating responsive email designs.
+@React-email/tailwind: Version 0.0.14 - Tailwind CSS utility classes for styling HTML emails.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+# Sections:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+About: Learn more about me, my background, and what drives my passion for web development.
+My Projects: Explore the various projects I've worked on, each highlighting different skills and technologies.
+My Skills: A comprehensive list of the skills and technologies I am proficient in.
+My Experience: An overview of my professional journey, including key roles and responsibilities.
+Contact Form: Feel free to reach out to me through the contact form provided on the website.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+# Developer:
+Kirill Litovchenko
