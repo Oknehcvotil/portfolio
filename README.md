@@ -1,6 +1,6 @@
 ## Portfolio
 
-# Welcome to my personal portfolio website! This site serves as a showcase of my skills, projects, and experience. It's designed to provide visitors with insights into my professional journey and expertise.
+Welcome to my personal portfolio website! This site serves as a showcase of my skills, projects, and experience. It's designed to provide visitors with insights into my professional journey and expertise.
 
 # Technologies Used:
 
