@@ -2,6 +2,7 @@ import React from "react";
 import { CgWorkAlt } from "react-icons/cg";
 import { FaReact } from "react-icons/fa";
 import { LuGraduationCap } from "react-icons/lu";
+import masterskayaImg from "@/public/images/masterskay.png";
 import ralogisticsImg from "@/public/images/ralogistics.jpg";
 import itsImg from "@/public/images/its.jpg";
 import powerpulseImg from "@/public/images/powerpulse.jpg";
@@ -72,6 +73,21 @@ export const experiencesData = [
 ] as const;
 
 export const projectsData = [
+  {
+    title: "Masterskay",
+    description:
+      "A website for a clothing and footwear repair workshop. It showcases a user-friendly interface, adaptable design for all devices, bilingual capabilities, and an interactive service inquiry form for customer feedback.",
+    tags: [
+      "Next.js",
+      "JS",
+      "Framer Motion",
+      "next-intl",
+      "Resend",
+      "Tailwind CSS",
+    ],
+    href: "https://masterskaya-na-fontane.od.ua/",
+    imageUrl: masterskayaImg,
+  },
   {
     title: "RA Logistics",
     description:
