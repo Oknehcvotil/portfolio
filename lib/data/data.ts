@@ -9,6 +9,7 @@ import powerpulseImg from "@/public/images/powerpulse.jpg";
 import phonebookImg from "@/public/images/phonebook.jpg";
 import cinemaniaImg from "@/public/images/cinemania.jpg";
 import miminoImg from "@/public/images/mimino.jpg";
+import korbenImg from "@/public/images/korben.png";
 
 export const links = [
   {
@@ -113,6 +114,20 @@ export const projectsData = [
     tags: ["React", "JS", "Redux", "react-i18next"],
     href: "https://ua-its.com/",
     imageUrl: itsImg,
+  },
+  {
+    title: "Korben&Dallas",
+    description:
+      "A website for the Korben&Dallas Digital Agency. Modern design and adaptable for mobile and desktop.",
+    tags: [
+      "React",
+      "JS",
+      "Framer Motion",
+      "Emotion Styled Components",
+      "React Fast Marquee",
+    ],
+    href: "https://korben-dallas.vercel.app/",
+    imageUrl: korbenImg,
   },
   {
     title: "Power Pulse",
