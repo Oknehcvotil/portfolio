@@ -49,7 +49,7 @@ export default function Project({
             </a>
           </div>
 
-          <p className="mt-2 leading-6 text-gray-700 dark:text-white/70">
+          <p className="mt-2 leading-6 text-gray-700 dark:text-white/70 sm:max-h-[9.5rem] sm:overflow-auto pr-2">
             {description}
           </p>
           <ul className="flex flex-wrap mt-4 gap-x-2 gap-y-1 sm:mt-auto">
