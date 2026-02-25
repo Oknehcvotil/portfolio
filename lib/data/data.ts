@@ -75,6 +75,23 @@ export const experiencesData = [
 
 export const projectsData = [
   {
+    title: "MI AGENCY",
+    description:
+      "A multilingual corporate website for a recruiting agency built with React and TypeScript. It features a fully responsive design across mobile, tablet, and desktop devices, smooth animations for enhanced user experience, an integrated contact form, and a custom interactive client map. The project focuses on modern UI/UX principles, performance optimization, and scalable architecture.",
+    tags: [
+      "React",
+      "TypeScript",
+      "React Router",
+      "Formik",
+      "Framer Motion",
+      "react-i18next",
+      "libphonenumber-js",
+      "swiper",
+    ],
+    href: "https://mi-website-gamma.vercel.app/en",
+    imageUrl: miImg,
+  },
+  {
     title: "Masterskay",
     description:
       "A website for a clothing and footwear repair workshop. It showcases a user-friendly interface, adaptable design for all devices, bilingual capabilities, and an interactive service inquiry form for customer feedback.",
