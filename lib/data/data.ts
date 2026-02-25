@@ -10,6 +10,7 @@ import phonebookImg from "@/public/images/phonebook.jpg";
 import cinemaniaImg from "@/public/images/cinemania.jpg";
 import miminoImg from "@/public/images/mimino.jpg";
 import korbenImg from "@/public/images/korben.png";
+import miImg from "@/public/images/mi.jpg";
 
 export const links = [
   {
